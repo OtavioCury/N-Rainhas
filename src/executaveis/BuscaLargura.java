@@ -48,6 +48,6 @@ public class BuscaLargura extends Busca{
 		}
 		System.out.println("========================Solução=========================");
 		tabuleiroTopo.printTabuleiro();
-
+		System.out.println("Número de iterações: "+numeroIteracao);
 	}
 }
